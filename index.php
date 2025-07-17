@@ -1,4 +1,6 @@
 <?php
-
-    echo "KUY";
+    echo "Good Guy";
+    
+    echo "i need money";
+    echo "no way";
 ?>
